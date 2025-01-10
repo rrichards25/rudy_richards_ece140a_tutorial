@@ -1,3 +1,3 @@
-hello world
+Sentence 1 for example on conflicts
 
-this is a tutorial eek!
+Sentence 2 had been modified to show conflicts
