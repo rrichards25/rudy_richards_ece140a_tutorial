@@ -1,4 +1,4 @@
-Sentence 1 for example of merge conflicts
+Sentence 1 for resolved conflict
 
-Sentence 2 for example of merge conflicts has been modified on local machine
+Sentence 2 for resolved conflict
 
