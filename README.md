@@ -1,3 +1,4 @@
-hello world
+Sentence 1 for example of merge conflicts
 
-this is a tutorial eek!
+Sentence 2 for example of merge conflicts has been modified on local machine
+
